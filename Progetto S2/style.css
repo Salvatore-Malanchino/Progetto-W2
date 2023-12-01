@@ -1,0 +1,225 @@
+/* Your styles here */
+body{
+    max-width: 992px;
+
+    margin: auto;
+}
+h1{
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+h2{
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+h3{
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold
+}
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+
+
+header{
+    
+    background-color: rgb(31 31 59);   
+    padding-bottom: 1em; 
+    height: 4em;
+}
+    
+    .logo{
+        height: 3em;
+        padding-left: 1em;
+    padding-top: 1em;
+}
+.logo img{
+    height: 2em;
+    padding-left: 1em;
+}
+.header{
+    border: solid#232f3e;
+    border-top: 0px;
+    background-color: #33334f;
+    padding-top: 6px;
+}
+.header p{
+    display: inline;
+    padding-left: 1em;
+    color: white;
+  
+}
+.hp{
+    padding-bottom: 3px;
+}
+.orange{
+   
+    background-color: #ff6a00;
+    margin-top: 3em;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+.orange p{
+    color: white;
+    border: solid #ff6a00;
+    height: 1.5em;
+text-align: center;
+padding-top: 0.5em;
+}
+   #green{
+    background-image: url(./images/bg-image.png);
+    margin-top: 3em;
+    margin-left: 2em;
+    margin-right: 2em;
+    height: 9.3em;
+    background-position:top;
+    background-size: contain;
+    
+    
+   }
+
+.green-p {
+    text-align: center;
+    color: white;
+    padding-top: 1.5em;
+}
+#preview{
+    
+border: solid 0px white;
+padding-bottom: 17em;
+margin-left: 2em;
+margin-right: 2em;
+margin-top: 2em;
+background-color: #f3f3f3;
+box-shadow: 2px 3px 15px 7px #f3f3f3;;
+}
+#preview p{
+    margin-left: 1em;
+}
+#preview span{
+    margin-left: 2em;
+    color: rgb(56, 185, 217);
+}
+.img-p-1{
+    background-image:url(./images/img_1.jpg);
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 12em;
+    height: 15em;
+    float:left;
+    margin-left: 1em;
+    border: solid 0px white;
+    border-radius: 10%;
+    box-shadow: 2px 3px 15px 7px #f3f3f3;;
+}
+.img-p-2{
+    background-image:url(./images/img_2.jpg) ;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 12em;
+    height: 15em;
+    float:left;
+    margin-left: 2em;
+    border: solid 0px white;
+    border-radius: 10%;
+    box-shadow: 2px 3px 15px 7px #f3f3f3;;
+}
+    
+.img-p-3{
+    background-image: url(./images/img_3.jpg);
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 12em;
+    height: 15em;
+    float:left;
+    margin-left: 2em;
+    border: solid 0px white;
+    border-radius: 10%;
+    box-shadow: 2px 3px 15px 7px #f3f3f3;;
+}
+.img-p-4{
+    background-image: url(./images/img_4.jpg) ;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 12em;
+    height: 15em;
+    float:left;
+    margin-left: 2em;
+    border: solid 0px white;
+    border-radius: 10%;
+    box-shadow: 2px 3px 15px 7px #f3f3f3;;
+    
+}
+.vr2{
+    width: 58em;
+    margin-top: 1em;
+    padding-left: 2em;
+}
+.vr2txt{
+    text-align: center;
+}
+.vr2txt span{
+    margin-left: 2em;
+    color: rgb(56, 185, 217);
+}
+.last{
+    width: 58em;
+    margin-top:2em;
+    padding-left: 2em;
+}
+.lastxt{
+    text-align: center;
+}
+.lastxt span{
+    margin-left: 2em;
+    color: rgb(56, 185, 217);
+}
+.end1{
+    border: solid#232f3e;
+    border-top: 0px;
+    background-color: #33334f;
+    padding-top: 6px;
+    text-align: center;
+}
+.end1 p{
+    display: inline;
+    padding-left: 1em;
+    color: white;
+    
+}
+#end{
+    background-color: rgb(31 31 59);   
+    padding-bottom: 1em; 
+    height: 4em;
+}
+.logoend{height: 2em;
+padding-top: 2em;
+padding-left: 28em;}
